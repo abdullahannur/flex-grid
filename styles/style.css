@@ -1,0 +1,5 @@
+/* top player style  */
+.players{
+    display: grid;
+    grid-template-columns: repeat(3,100px);
+}
